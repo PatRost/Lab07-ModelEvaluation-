@@ -19,9 +19,9 @@ I worked on the three knowledge-check questions about precision, recall, and cro
 
 ---
 
-### Member 2 — [Enter Your Full Name]
+### Member 2 — Saimi Manasiya
 
-**Contribution:**
+My contribution to this lab was working on the different steps involved in evaluating the Logistic Regression model using the Titanic dataset. I reviewed the dataset preparation process, including converting the gender values into numerical format, filling missing age values with the median, selecting the required features, and splitting the data into training and testing sets. I worked on generating the confusion matrix and understanding how it compares the actual results with the model's predictions. I also practiced using the classification report to examine precision, recall, F1-score, and overall accuracy for both the died and survived classes. Furthermore, I worked on understanding five-fold cross-validation and how calculating the average score and standard deviation helps evaluate the consistency of a model. I also reviewed the knowledge-check questions related to precision, recall, and cross-validation. Through these activities, I strengthened my Python and machine learning skills and gained a better understanding of how to evaluate classification models and interpret their results.
 
 
 
