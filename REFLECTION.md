@@ -19,9 +19,9 @@ I also learned why cross-validation is useful. Our model had about 80% accuracy 
 
 ---
 
-### Member 2 — [Enter Your Full Name]
+### Member 2 — Saimi Manasiya.
 
-**Reflection:**
+In this lab, I learned how to evaluate a machine learning model using different evaluation techniques instead of depending only on accuracy. I worked with a Logistic Regression model using the Titanic dataset to predict whether passengers survived. I learned how to create and interpret a confusion matrix, which helps identify correct and incorrect predictions, including true positives, true negatives, false positives, and false negatives. I also learned about precision, recall, and the F1-score and understood how these metrics help us measure the performance of a classification model in different ways. Additionally, I practiced generating a classification report and performing five-fold cross-validation to check how consistently the model performs on different parts of the dataset. The average cross-validation score was 78.68%. Overall, this lab improved my understanding of model evaluation and taught me why it is important to use multiple evaluation methods to understand a machine learning model's reliability and performance.
 
 
 
