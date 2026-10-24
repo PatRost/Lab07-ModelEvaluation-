@@ -27,9 +27,22 @@ My contribution to this lab was working on the different steps involved in evalu
 
 ---
 
-### Member 3 — [Enter Your Full Name]
+### Member 3 — Kenneth Kouokam
 
-**Contribution:**
+My contribution to Module 07 focuses on interpreting the classification metrics and explaining what
+they show about the Logistic Regression model. Using the confusion-matrix counts shared by the
+group, my analysis compares the Died and Survived classes instead of relying only on overall
+accuracy. For survival predictions, precision is about 78%, recall is about 73%, and the F1-score is
+about 76%. For the Died class, these values are about 82%, 86%, and 84%. The class supports are
+74 survivors and 105 passengers who died, showing how many actual examples belong to each
+class.
+
+My interpretation connects these scores to the mistakes behind them. The model correctly identifies
+54 of the 74 survivors but misses 20, which explains why survival recall is lower than the overall
+accuracy of about 80%. It also predicts survival for 15 passengers who actually died, reducing
+survival precision. This comparison shows that the model identifies passengers who died more
+consistently than survivors on this test set. My section contributes an explanation of these differences
+and why precision, recall, and F1-score give the group more information than accuracy alone.
 
 
 
