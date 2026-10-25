@@ -66,11 +66,21 @@ should make both the model's strengths and its limitations understandable.
 
 ---
 
-### Member 4 — [Enter Your Full Name]
+### Member 4 — Anavictoria Cavazos
 
-**Reflection:**
+This week's assignment, Lab 07, helped me understand more on how confusion matrix is read and used. After imputing the proper code I saw 
+how 90 of the total people were predicted to survive and that was true, but then 20 were predicted to have survived when in fact
+they died. Now this error according to what I learned is known as a type 2 error, which at first I did not understand why or the 
+difference between type 1 and that one. Then after looking deeper into the assignment/lesson I understood that for a type 1 error it is 
+and error of claiming a negatve, but it is not, so in the case of the titanic dataset it is seen when there was a claim of 
+predicting the ones that died, but they actually survived. 
 
-
+Going further into my reflection I understood the importance of splitting the data as mentioned in class and practiced in past assignments
+, but now having a hands on with seeing how splitting the data is just the first step and then there has to be cross-validation, wherethe
+splitting has to happen multiple times helped me see the reason for it and the 
+importance. The way that it affects the data is by improving the accuracy by seeing the true number of how great the model is and where 
+exactly are its flaws at. For instance, when it finally reaches its last cross validation, it is easier to see where the model did not 
+perform well, so then that can be fixed and adjusted to perform to the best it can. 
 
 ---
 
