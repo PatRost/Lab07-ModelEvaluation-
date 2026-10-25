@@ -48,9 +48,16 @@ and why precision, recall, and F1-score give the group more information than acc
 
 ---
 
-### Member 4 — [Enter Your Full Name]
+### Member 4 — Anavictoria Cavazos
 
-**Contribution:**
+My personal contribution to this assignment was to independently work on the google colab and make sure I understood in depth how it
+all makes sense and functions in machine learning. I started by going through each individual task and analyzing the reason for its use
+or purpose. For instance, after I completed task 1 I understood how to read and input the confusion_matrix as well as the heatmap to 
+properly see which parts were true positive and which were true negative. 
+
+As I worked through the lab I was then able to notice the connection between splitting the data and then using that to create a cross 
+validation to properly understand how good the model really is. Overall, this assignment help me get a better learning on how to apply
+these concepts as I develop or work with other models in the future 
 
 
 
