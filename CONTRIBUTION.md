@@ -57,7 +57,7 @@ properly see which parts were true positive and which were true negative.
 
 As I worked through the lab I was then able to notice the connection between splitting the data and then using that to create a cross 
 validation to properly understand how good the model really is. Overall, this assignment help me get a better learning on how to apply
-these concepts as I develop or work with other models in the future 
+these concepts as I develop or work with other models in the future.
 
 
 
