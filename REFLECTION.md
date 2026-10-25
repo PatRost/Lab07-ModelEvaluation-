@@ -86,9 +86,7 @@ perform well, so then that can be fixed and adjusted to perform to the best it c
 
 ### Member 5 — Hashim Sayed Hoosini
 
-In this model evaluation lab, I transitioned from relying on a single, potentially misleading metric like accuracy to employing a standard set of robust evaluation techniques. I learned that accuracy alone cannot reveal whether a machine learning model is truly trustworthy, and it is always best practice to evaluate other metrics as well.
-
-Rather than looking at a single accuracy score, mapping the confusion matrix helped me see exactly where the model's predictions deviated. For example, knowing that we had 90 True Negatives, 54 True Positives, 15 False Positives, and 20 False Negatives provided immediate, actionable context.
+In this model evaluation lab, I transitioned from relying on a single, potentially misleading metric like accuracy to employing a standard set of robust evaluation techniques. I learned that accuracy alone cannot reveal whether a machine learning model is truly trustworthy, and it is always best practice to evaluate other metrics as well. Rather than looking at a single accuracy score, mapping the confusion matrix helped me see exactly where the model's predictions deviated. For example, knowing that we had 90 True Negatives, 54 True Positives, 15 False Positives, and 20 False Negatives provided immediate, actionable context.
 
 Exploring the precision-recall trade-off highlighted the real-world implications of prioritizing precision (minimizing false positives, such as in spam detection) versus recall (minimizing false negatives, such as in medical diagnoses). This trade-off demonstrated that an optimal model is highly dependent on the specific business context and the unique costs associated with incorrect classifications.
 
@@ -100,5 +98,6 @@ Ultimately, this lab underscored why thoroughly validating machine learning mode
 
 
 LLM used: Google AI model
+
 Purpose: Spelling check, grammar issues
 
