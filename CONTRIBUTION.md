@@ -63,9 +63,9 @@ these concepts as I develop or work with other models in the future.
 
 ---
 
-### Member 5 — [Enter Your Full Name]
+### Member 5 — Hashim Sayed Hoosini
 
-**Contribution:**
+My contribution to this lab assignment was working independently on Lab 7 due to a schedule conflict with the rest of the team; however, I consistently followed up and communicated with them through the group chat. I worked on the Lab 7 Google Colab notebook, ran the code according to the instructions, and ensured that I understood the context in depth. Through this lab, I learned that a single metric like accuracy can be misleading, and that it is best practice to evaluate a machine learning model using other robust evaluation techniques. I gained hands-on experience using the confusion matrix, recall, F1-score, precision, and cross-validation. I also learned that in real-world projects, deploying a model based purely on an accuracy score can be incredibly costly if the minority class is heavily misclassified.
 
 
 
